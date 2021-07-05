@@ -1,5 +1,5 @@
 # Emotion_Prediction_Kaggle_CNN
-## Facial Expression Prediction with CNN Model Architecture making use of Transfer Learning,Data Augmentation, Regularization Techniques.  
+## Facial Expression Prediction with CNN Model Architecture making use of Transfer Learning, Data Augmentation, Regularization Techniques.  
 
 ### :one: Description :
 i> The Kaggle Notebook file makes use of the CNN model architecture combined with Transfer Learning(Resnet-9).
@@ -39,4 +39,5 @@ vii> ['disgust'] :vomiting_face:
 #### **-> OS**
 #### **-> Matplotlib**
 
+## Add a star 🌟 to the repo if u like it.:smiley: Thank You :v:
 
