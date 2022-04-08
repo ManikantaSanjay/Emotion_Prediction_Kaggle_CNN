@@ -39,5 +39,10 @@ vii> ['disgust'] :vomiting_face:
 #### **-> OS**
 #### **-> Matplotlib**
 
+### :four: Predictions :
+
+![predictions](https://user-images.githubusercontent.com/53619729/162378661-10d63615-2d10-4664-b4c4-bc68529c175a.gif)
+
+
 ## Add a star 🌟 to the repo if u like it.:smiley: Thank You :v:
 
